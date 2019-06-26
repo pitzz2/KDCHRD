@@ -23,4 +23,4 @@ Link: [Google][googlelink]
 
 
 
-syntax: [google](https://google.com)
+[google](https://google.com)
